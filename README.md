@@ -7,4 +7,28 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 *Saya Mohammad Labib Husain mengerjakan Latihan 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 ## *Desain Program*
-*Saya Mohammad Labib Husain mengerjakan Latihan 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.* 
+Ada 3 kelas dalam program yang telah saya buat (PHP hanya 2):
+
+  -class Mahasiswa 
+  
+    -> Berisikan setter dan getter Mahasiswa
+    
+    -> Atribut terdiri dari nama,nim,prodi,fakultas,dan foto (pada php)
+    
+  -class Main 
+  
+    -> Tempat rogram Utama
+    
+    -> atribut terdiri dari vector dari kelas Mahasiswa
+    
+  -class Table
+  
+     -> Membuat Tabel
+
+     -> Atribut terdiri dari kolom dan baris
+     
+      -> Terdapat method untuk membuat baris
+
+
+Setiap atribut pada masing-masing kelas memiliki setter dan getter.
+
