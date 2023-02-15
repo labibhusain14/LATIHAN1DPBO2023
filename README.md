@@ -32,3 +32,14 @@ Ada 3 kelas dalam program yang telah saya buat (PHP hanya 2):
 
 Setiap atribut pada masing-masing kelas memiliki setter dan getter.
 
+## *Alur*
+
+Program akan Menampilkan beberapa menu pilihan.Terdapat 5 Menu pilihan,diantaranya :
+  1. Tambah Data -> User Memberikan INputan berupa data yang ingin dimasukkan.
+  2. Update Data -> User diberikan fitur untuk merubah data yang ada.
+  3. Delete Data -> User dapat menghapus data yang ia pilih.
+  4. Tampil Data -> User juga dapat melihaat seluruh data.
+  5. Keluar -> program akan berhenti berjlana.
+ 
+ 
+
